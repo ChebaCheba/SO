@@ -22,5 +22,6 @@ gcc
 
 ## Que aprendi:
 
+Aprendí a crear funciones de apagar y reinciar, además del funcionamiento de algunos de los archivos del SO, y probar como no se puede acceder directamente al sistema.
 
 ## Url del commit: 
