@@ -25,3 +25,4 @@ gcc
 Aprendí a crear funciones de apagar y reinciar, además del funcionamiento de algunos de los archivos del SO, y probar como no se puede acceder directamente al sistema.
 
 ## Url del commit: 
+https://github.com/ChebaCheba/SO/commit/23fbb6c058de4068ce8698653788b1b8a7c9b744
