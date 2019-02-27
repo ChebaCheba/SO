@@ -34,7 +34,8 @@ git
    
 
 ## ¿Qué aprendí?
-
+Que es la instancia de un programa.
 ## URL del commit:
-
+https://github.com/ChebaCheba/SO/commit/9d2a0bb932681bf9afe2e189c270fcedb66f8556
 ## ¿Cómo se relaciona los conceptos anteriores?
+Habiamos visto para que era el fork, y lo que pasaba al iniciar el sistema.
