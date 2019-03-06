@@ -18,8 +18,9 @@ gcc
 + Guardar el PC y la direccion del stack del proceso actual.
 + Restaurar el PC y la direccion del nuevo proceso.
 
-## Que aprendí
+## Que aprendí:
 
-## Url del commit
+## Url del commit:
 
-## Como se relaciona con los conceptos anteriores
+## Como se relaciona con los conceptos anteriores:
+Llamadas a sistema, procesos
