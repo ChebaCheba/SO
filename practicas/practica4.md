@@ -19,8 +19,8 @@ gcc
 + Restaurar el PC y la direccion del nuevo proceso.
 
 ## Que aprendí:
-
+Aprendí como darle prioridad a ciertos procesos que se realizan, mediante el planificador, que decide como cambiar de estado los procesos para poder trabajar de manera optima con estos.
 ## Url del commit:
-
+https://github.com/ChebaCheba/SO/commit/210170f669fa6f8556807763b3fddefdc3fc84be
 ## Como se relaciona con los conceptos anteriores:
 Llamadas a sistema, procesos
