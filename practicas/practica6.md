@@ -26,8 +26,8 @@ git
   + Productor/Consumidor. Ocurre cuando los datos se puede sobre-escribir
 
 # Url del commit:
-Threads: https://github.com/ChebaCheba/SO/commit/8332bb360aab30d20c8b1500aa89aad0ad362a0e
-Phil: https://github.com/ChebaCheba/SO/commit/ee754ce6740b796463d0905ce8f0a9b0189d41a4
+- Threads: https://github.com/ChebaCheba/SO/commit/8332bb360aab30d20c8b1500aa89aad0ad362a0e
+- Phil: https://github.com/ChebaCheba/SO/commit/ee754ce6740b796463d0905ce8f0a9b0189d41a4
 # Que aprendi:
 Aprendi a hacer hilos, el problema de carrera, el problema de los filosofos, a usar semafores para sincronizar, "tomar, comer y pensar."  
   
