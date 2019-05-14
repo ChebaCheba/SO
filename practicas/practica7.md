@@ -13,5 +13,6 @@ git
 + Directorios
   + Es un tipo especial de archivo que contiene el nombre de otros archivos y sus referencias.
 # Url del commit:
-
+https://github.com/ChebaCheba/SO/commit/684c1c0c88a82de9dda560cc483e5e547c91c896
 # Que aprendi:
+Aprendi a manejar archivos y la manera en que se usan, y la diferencia entre estos y los directorios.
